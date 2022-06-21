@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BullionBars\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BullionBars\\.nuget\\packages"
+    ]
+  }
+}

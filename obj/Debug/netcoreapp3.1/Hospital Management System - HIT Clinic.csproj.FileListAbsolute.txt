@@ -1,0 +1,28 @@
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.exe
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.deps.json
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.runtimeconfig.json
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.runtimeconfig.dev.json
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.pdb
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.csprojAssemblyReference.cache
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Form1.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.csproj.GenerateResource.cache
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.AssemblyInfoInputs.cache
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.AssemblyInfo.cs
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.csproj.CoreCompileInputs.cache
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.pdb
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.genruntimeconfig.cache
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Home.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Properties.Resources.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Doctor.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Diagnosis.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Patient.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital_Management_System___HIT_Clinic.Splash.resources
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BullionBars\source\repos\Hospital Management System - HIT Clinic\Hospital Management System - HIT Clinic\obj\Debug\netcoreapp3.1\Hospital Management System - HIT Clinic.csproj.CopyComplete
